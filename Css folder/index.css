@@ -77,35 +77,7 @@ nav ul .search-icn .icon span {
 .parallax {
   height: 100vh;
   width: 100%;
-  background-image: url(/foton/Klda.jpg);
-  background-size: cover;
-  background-position: center;
-}
-.parallaxherr {
-  height: 100vh;
-  width: 100%;
-  background-image: url(/foton/herr.jpg);
-  background-size: cover;
-  background-position: center;
-}
-.parallaxsport {
-  height: 100vh;
-  width: 100%;
-  background-image: url(/foton/sport.jpg);
-  background-size: cover;
-  background-position: center;
-}
-.parallaxdam {
-  height: 100vh;
-  width: 100%;
-  background-image: url(/foton/Kläderindex.jpg);
-  background-size: cover;
-  background-position: center;
-}
-.parallaxutrustning {
-  height: 100vh;
-  width: 100%;
-  background-image: url(/foton/frilufs.jpg);
+  background-image: url(foton/Klda.jpg);
   background-size: cover;
   background-position: center;
 }
