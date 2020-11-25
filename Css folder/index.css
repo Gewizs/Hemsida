@@ -23,18 +23,18 @@ nav ul li.logo {
   font-size: 30px;
   font-weight: 700;
 }
-nav ul div.items {
+nav ul li.items {
   padding: 0 25px;
   display: inline-flex;
 }
-nav ul div.items a {
+nav ul li.items a {
   text-decoration: none;
   font-size: 18px;
   color: black;
   padding: 0 12px;
 }
 
-nav ul div.items a:hover {
+nav ul li.items a:hover {
   color: gray;
 }
 
@@ -160,7 +160,6 @@ a {
   border: 5px solid #cccccc;
 }
 footer {
-  position: fixed;
   bottom: 0px;
   width: 100%;
   background: #d9d9d9;
